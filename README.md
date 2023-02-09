@@ -1,8 +1,8 @@
 <p align="center" style="width:400;height:100"><a href="https://laravel.com" target="_blank">MEET THE OGs</a></p>
 
 <p align="center">
-<a href="https://meettheogs.com"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://meettheogs.com"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://meettheogs.com"><img src="https://github.com:Chessdeen/meettheOGs/images/language.png" alt="Build Status"></a>
+<a href="https://meettheogs.com"><img src="https://github.com:Chessdeen/meettheOGs/images/version.png" alt="Latest Stable Version"></a>
 
 </p>
 
