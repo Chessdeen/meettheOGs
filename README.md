@@ -17,7 +17,8 @@ If you are interested in becoming a sponsor, please visit the MeettheOGs [Donate
 
 ### Premium Partners
 
-- **[Olayinka]()**
+- **[Olayinka](https://github.com/Chessdeen/meettheOGs.git)**
+- **[Olasumbo](https://github.com/Chessdeen/meettheOGs.git)**
 
 
 ## Contributing
