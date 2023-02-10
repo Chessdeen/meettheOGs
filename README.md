@@ -13,7 +13,7 @@ The theme of the event is Meet The OGs (Meaning: Meet the Oginni's)
 
 ## MeettheOGs Sponsors
 
-If you are interested in becoming a sponsor, please visit the MeettheOGs [Donate page](https://meettheogs.com/donate).
+If you are interested in becoming a sponsor, please visit MeettheOGs [Donate page](https://meettheogs.com/donate).
 
 ### Premium Partners
 
