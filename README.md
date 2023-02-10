@@ -1,4 +1,4 @@
-<p align="center" style="width:400;height:100"><a href="https://laravel.com" target="_blank">MEET THE OGs</a></p>
+<p align="center"><a href="https://meettheogs.com" target="_blank"><img src="images/logo.png" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://meettheogs.com"><img src="images/language.png" alt="Build Status"></a>
