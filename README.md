@@ -23,9 +23,9 @@ If you are interested in becoming a sponsor, please visit MeettheOGs [Donate pag
 
 ## Contributing
 
-Thank you for considering contributing to the meettheogs web-app! Contact contribute@meettheogs.com for the contribution guide.
+Thank you for considering contributing to the meettheogs web-app! Contact rsvp@meettheogs.com for the contribution guide.
 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within meettheOGs Web-App, please send an e-mail to a representative via [rsvp@meettheogs.com](mailto:rsvp@meettheogs.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within meettheOGs Web-App, please send an e-mail to a representative via [RSVP](mailto:rsvp@meettheogs.com). All security vulnerabilities will be promptly addressed.
