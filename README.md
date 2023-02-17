@@ -9,22 +9,23 @@
 ## About MeettheOGs
 
 Love is a beautiful thing. So we met minds to create a memory to never forget by redesigning what it means to manage and establish logistics of the upcoming event.
-The theme of the event is Meet The OGs (Meaning: Meet the Original Gang) 
+The theme of the event is Meet The OGs (Meaning: Meet the Oginni's) 
 
 ## MeettheOGs Sponsors
 
-If you are interested in becoming a sponsor, please visit the MeettheOGs [Donate page](https://meettheogs.com/donate).
+If you are interested in becoming a sponsor, please visit MeettheOGs [Donate page](https://meettheogs.com/donate).
 
 ### Premium Partners
 
-- **[Olayinka]()**
+- **[Olayinka](https://github.com/Chessdeen/meettheOGs.git)**
+- **[Swiz](https://github.com/Adeolaswiz)**
 
 
 ## Contributing
 
-Thank you for considering contributing to the meettheogs web-app! Contact contribute@meettheogs.com for the contribution guide.
+Thank you for considering contributing to the meettheogs web-app! Contact rsvp@meettheogs.com for the contribution guide.
 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within meettheOGs Web-App, please send an e-mail to a representative via [rsvp@meettheogs.com](mailto:rsvp@meettheogs.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within meettheOGs Web-App, please send an e-mail to a representative via [RSVP](mailto:rsvp@meettheogs.com). All security vulnerabilities will be promptly addressed.
