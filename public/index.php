@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Meet The OGs">
     <meta name="generator" content="meettheOGs">
-    <title>Cover Template · Bootstrap v5.3</title>
+    <title>Meet The OG's</title>
 
     <link rel="canonical" href="">
 
